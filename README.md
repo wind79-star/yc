@@ -1,2 +1,0 @@
-# yc
-github yc
